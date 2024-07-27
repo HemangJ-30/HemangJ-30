@@ -1,8 +1,9 @@
 # Hemang Jain
 
 ## 💫 About Me
-Hello👋! I'm Hemang Jain, a MERN stack developer based in Pune, India 🌱. I have a BE degree in electronics and telecommunication, and I am currently focused on becoming an expert in full stack development.
-I am enthusiastic about creating efficient and scalable web applications and constantly seeking new challenges to enhance my skills.
+- Hello👋! I'm Hemang Jain, a MERN stack developer based in Pune, India 🌱.
+- I have a BE degree in electronics and telecommunication, and I am currently focused on becoming an expert in full stack development.
+- I am enthusiastic about creating efficient and scalable web applications and constantly seeking new challenges to enhance my skills.
 
 ## 💻 Skills
 - **Frontend Development**: HTML, CSS, JavaScript, React.js
@@ -20,7 +21,9 @@ I am enthusiastic about creating efficient and scalable web applications and con
 ![Hemang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 💞️ Let's Connect!
-Feel free to reach out to me for any collaboration or just to say hi! 😊
+- Feel free to reach out to me for any collaboration or just to say hi! 😊
+- Also do check out my repositories and give me a star! ⭐
+- THANK YOU
 
 <!---
 HemangJ-30/HemangJ-30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
